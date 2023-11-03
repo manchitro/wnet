@@ -1,0 +1,11 @@
+# exclude the bsds500
+/BSR/
+/BSR/*
+/checkpoints/
+/checkpoints/*
+*.jpg
+*.png
+*.pyc
+checkpoint*
+VOC2012/
+VOC2012/*
